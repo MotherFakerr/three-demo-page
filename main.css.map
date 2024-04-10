@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":";;;;;;;AAAA;EACI;EACA;EACA;EACA;EACA;AACJ","sources":["webpack://@your_project_name/face/./src/view/app.less"],"sourcesContent":[".welcome {\n    font-size: 60px;\n    font-weight: 600;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}"],"names":[],"sourceRoot":""}
